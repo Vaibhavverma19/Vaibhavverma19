@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react,c++**
 
-- 📫 How to reach me **itsmeevaibhavv@gmail.com** 
+- 📫 How to reach me **vaibhavverma1908@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
