@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software Developer Intern at Nokia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavverma19&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavverma19" /> </p>
 
-- 🔭 I’m currently studying **Bachelors of Engineering**
+- 🔭 I’m currently working as **SDE Intern at NOKIA**
 
-- 🌱 I’m currently learning **React,NodeJs,MySql**
+- 🌱 I’m using these technologies **Javascript,React,NodeJs,MySql,Docker,Kubernetes,Helm charts**
 
-- 👯 I’m looking to collaborate on **Frontend projects**
+- 👯 I’m looking to collaborate on **Full time Software Development Roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vaibhavverma19](https://github.com/Vaibhavverma19)
 
-- 💬 Ask me about **react,c++**
+- 💬 Ask me about **Data structures and alogrihtms along with MERN stack**
 
 - 📫 How to reach me **vaibhavverma1908@gmail.com** 
 
